@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Samah KANSAB
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python for data science
+- 🌱 I’m currently learning about ML4SE
 - 📫 You can reach me here -> hs_kansab@esi.dz 
